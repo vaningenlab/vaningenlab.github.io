@@ -85,7 +85,7 @@ author:
   bio              : ""
   location         : "Utrecht NMR Group"
   employer         : "Utrecht University"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=van+ingen+h%5Bau%5D"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=van+ingen+h%5Bau%5D&sort=date"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=uYX0Uo8AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
