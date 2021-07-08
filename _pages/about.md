@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Home"
-excerpt: "Home"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,17 +16,23 @@ In particular, we are interested in the interactions of chromatin's fundamental 
 To this end, we make use of state-of-the art NMR methods and also develop novel approaches to study these large assemblies at atomic resolution.
 In addition, the group collaborates with and supports users of the Utrecht NMR Facility, for example via [iNEXT-Discovery](https://inext-discovery.eu/network/inext-d/home) and [INSTRUCT](https://instruct-eric.eu).
 
+![chromatin and nucleosome interactions](/images/chromatin-NMR.png)
+
 Contact
 ------
+
 ![Nicolaas Bloembergen Building](/images/bloembergen.jpg)
+
 We are part of the [Utrecht NMR Group](https://www.uu.nl/en/research/nmr) at the [Bijvoet Centre for Biomolecular Research](https://www.uu.nl/en/research/bijvoet-centre-for-biomolecular-research) at [Utrecht University](https://www.uu.nl/en).
 
-[Dr. Hugo van Ingen](<h.vaningen@uu.nl>)
-Utrecht NMR Group
-Utrecht University
-Bloembergen building k. 1.04
-Padualaan 8
-3854 CH Utrecht
-The Netherlands
+Contact details:
+
+[Dr. Hugo van Ingen](<h.vaningen@uu.nl>)  
+Utrecht NMR Group  
+Utrecht University  
+Bloembergen building k. 1.04  
+Padualaan 8  
+3854 CH Utrecht  
+The Netherlands  
 
 ![Utrecht University Bijvoet Centre](/images/uu-bijvoet.png)
