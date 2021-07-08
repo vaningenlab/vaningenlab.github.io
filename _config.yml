@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "van Ingen lab"
+  name             : "van Ingen team"
   avatar           : "logo.png"
   bio              : ""
-  location         : "Utrecht NMR Group"
+  location         : "https://www.uu.nl/en/research/nmr"
   employer         : "Utrecht University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=van+ingen+h%5Bau%5D&sort=date"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=uYX0Uo8AAAAJ"
