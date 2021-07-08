@@ -83,10 +83,10 @@ author:
   name             : "van Ingen team"
   avatar           : "logo.png"
   bio              : ""
-  #location         : <a href="https://www.uu.nl/en/research/nmr">UU NMR Group
-  #employer         : <a href="https://www.uu.nl/en/">Utrecht University
-  location         : [UU NMR Group](https://www.uu.nl/en/research/nmr)
-  employer         : [Utrecht University](https://www.uu.nl/en/)
+  location         : <a href="https://www.uu.nl/en/research/nmr">UU NMR Group
+  employer         : <a href="https://www.uu.nl/en/">Utrecht University
+  #location         : [UU NMR Group](https://www.uu.nl/en/research/nmr)
+  #employer         : [Utrecht University](https://www.uu.nl/en/)
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=van+ingen+h%5Bau%5D&sort=date"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=uYX0Uo8AAAAJ"
   email            :
