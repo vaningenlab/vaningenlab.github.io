@@ -27,13 +27,12 @@ We are part of the [Utrecht NMR Group](https://www.uu.nl/en/research/nmr) at the
 Contact details:
 
 [Dr. Hugo van Ingen](mailto:h.vaningen@uu.nl)
-<address>
+
 Utrecht NMR Group  
 Utrecht University  
 Bloembergen building k. 1.04  
 Padualaan 8  
 3854 CH Utrecht  
 The Netherlands  
-</address>
 
 ![Utrecht University Bijvoet Centre](/images/uu-bijvoet.png)
