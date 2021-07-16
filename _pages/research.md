@@ -27,8 +27,8 @@ We are mostly interested in the interactions of histone proteins and nucleosomes
 The challenging nature of these systems makes them perfect for NMR-driven integrative structural biology. 
 With the unique sensitivity of NMR spectroscopy to structure and dynamics, we hope to create a new perspective on protein-nucleosome complexes.
 
-NMR theory
-----------
+NMR
+---
 
 As the saying goes, 
 > In theory there is no difference between theory and practice. 
