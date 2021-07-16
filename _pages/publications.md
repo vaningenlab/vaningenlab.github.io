@@ -9,9 +9,10 @@ For a full publication list, please see the links on side bar.
 
 
 Key Publications
--------------------------------------------------
+================
 
-* NMR-driven integrative structure of the RNF168-nucleosome complex explains Ub specificity
+NMR-driven integrative structure of the RNF168-nucleosome complex explains Ub specificity
+-----------------------------------------------------------------------------------------
 
 ![integrative model E3-E2-nucleosome complex](/images/rnf168-e2-nucleosome.png)
 
@@ -27,7 +28,8 @@ This work was a collaboration with the Sixma group at the Netherlands Cancer Ins
 [Read the paper](https://www.nature.com/articles/s41467-019-09756-z)
 [PDB-DEV](https://pdb-dev.wwpdb.org/solrsearch.html?query=RNF168)
 
-* Unspinning chromatin
+Unspinning chromatin
+--------------------
 
 A comprehensive review of NMR on the nucleosome from the 1960s till the present day...
 
@@ -36,7 +38,8 @@ Prog.NMR Spectr.,110,1-19.
 
 [Read the paper](https://www.sciencedirect.com/science/article/pii/S0079656518300621)
 
-* Site-specific studies of nucleosome interactions by solid-state NMR spectroscopy
+Site-specific studies of nucleosome interactions by solid-state NMR spectroscopy
+---------------------------------------------------------------------------------
 
 ![spin, spin, unspin, pin](/images/sednmr-01.png)
 
@@ -47,7 +50,8 @@ Spinning down nucleosomes to pin down interactions...
 
 [Read the paper](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201713158)
 
-* Nucleosomal DNA binding drives the recognition of H3K36 methylated nucleosomes by the PSIP1-PWWP domain
+Nucleosomal DNA binding drives the recognition of H3K36 methylated nucleosomes by the PSIP1-PWWP domain
+-----------------------------------------------------------------------------------------------------
 
 ![H3K36me3 readout](/images/psip1.png)
 
@@ -56,7 +60,8 @@ Epigenetics & Chromatin, 6, 12-24.
 
 Read the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/1756-8935-6-12)
 
-* Architecture of the high mobility group nucleosomal protein 2-nucleosome complex as revealed by methyl-based NMR
+Architecture of the high mobility group nucleosomal protein 2-nucleosome complex as revealed by methyl-based NMR
+---------------------------------------------------------------------------------------------------------------
 
 ![nucleosome methyl-TROSY NMR](/images/metrosy.png)
 
@@ -66,16 +71,18 @@ Proc. Natl. Acad. Sci. USA, 108, 12283-12288
 [Read the paper](https://www.pnas.org/content/108/30/12283)
 
 Latest
--------------------------------------------------
+======
 
-* Beyond the nucleosome
+Beyond the nucleosome
+--------------------
 
 The structure-function relationship of chromatin is a complex, multi-scale problem.
 In this review, we examined the interplay between higher-order chromatin structure and nucleosome-nucleosome and nucleosome-protein interactions.
 
 [Read the paper](https://www.sciencedirect.com/science/article/pii/S0022283621000218)
 
-* Let's roll and make nucleosomal DNA
+Let's roll and make nucleosomal DNA
+----------------------------------
 
 ![let's roll](/images/rca.png)
 
@@ -85,8 +92,8 @@ This will facilitate structural studies of genomic nucleosomes by making it easi
 [Read the paper](https://www.sciencedirect.com/science/article/pii/S0003269719307900)
 
 
-
-* Peptide mimics nucleosome
+Peptide mimics nucleosome
+-------------------------
 
 ![nucleosome mimicking peptide](/images/nucleosome-mimic.png)
 
