@@ -10,7 +10,7 @@ redirect_from:
 
 
 About us
-======
+---------
 Our research team focusses on the molecular basis of chromatin function using an integrative approach of modern NMR, biochemistry and computation.
 In particular, we are interested in the interactions of chromatin's fundamental building block, the nucleosome, and other chromatin factors and how these affect chromatin structure and function.
 To this end, we make use of state-of-the art NMR methods and also develop novel approaches to study these large assemblies at atomic resolution.
@@ -19,20 +19,21 @@ In addition, the group collaborates with and supports users of the Utrecht NMR F
 ![chromatin and nucleosome interactions](/images/chromatin-NMR.png)
 
 Contact
-------
-
+-------
 ![Nicolaas Bloembergen Building](/images/bloembergen.jpg)
 
 We are part of the [Utrecht NMR Group](https://www.uu.nl/en/research/nmr) at the [Bijvoet Centre for Biomolecular Research](https://www.uu.nl/en/research/bijvoet-centre-for-biomolecular-research) at [Utrecht University](https://www.uu.nl/en).
 
 Contact details:
 
-[Dr. Hugo van Ingen](<h.vaningen@uu.nl>)  
+[Dr. Hugo van Ingen](<h.vaningen@uu.nl>)
+<address>
 Utrecht NMR Group  
 Utrecht University  
 Bloembergen building k. 1.04  
 Padualaan 8  
 3854 CH Utrecht  
 The Netherlands  
+</address>
 
 ![Utrecht University Bijvoet Centre](/images/uu-bijvoet.png)
