@@ -8,19 +8,15 @@ author_profile: true
 PI
 ---
 
-* <img src="/images/hugo.png" alt="Hugo" width="150"/>  
-**Hugo van Ingen**, assistant prof.
+* <img src="/images/hugo.png" alt="Hugo" width="150"/> **Hugo van Ingen**, assistant prof.
 
 
 Current group members
 -------------------------------------------------
 
-* <img src="/images/maria.jpg" alt="Maria" width="150"/>  
-**Maria Incoronate Nardella**, post-doc
-* <img src="/images/Heyi.png" alt="Heyi" width="150"/>  
-**Heyi Zhang**, post-doc
-* <img src="/images/vincenzo.png" alt="Vincenzo" width="150"/>  
-**Vincenzo Lobbia**, PhD student
+* <img src="/images/maria.jpg" alt="Maria" width="150"/> **Maria Incoronate Nardella**, post-doc
+* <img src="/images/Heyi.png" alt="Heyi" width="150"/> **Heyi Zhang**, post-doc
+* <img src="/images/vincenzo.png" alt="Vincenzo" width="150"/> **Vincenzo Lobbia**, PhD student
 
 We would not accomplish anything without all our collegues from the [UU NMR Group](https://www.uu.nl/en/research/nmr/people)!
 
