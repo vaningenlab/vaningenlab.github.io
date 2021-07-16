@@ -9,7 +9,7 @@ PI
 ---
 
 * Hugo van Ingen, assistant prof.
-<img src="/images/hugo.jpg" alt="Hugo" width="200"/>
+<img src="images/hugo.jpg" alt="Hugo" width="200"/>
 
 Current group members
 -------------------------------------------------
