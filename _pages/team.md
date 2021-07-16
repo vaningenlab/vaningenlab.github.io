@@ -9,13 +9,13 @@ PI
 ---
 
 * Hugo van Ingen, assistant prof.
-<img src="images/hugo.jpg" alt="Hugo" width="200"/>
+<img src="images/hugo.png" alt="Hugo" width="200"/>
 
 Current group members
 -------------------------------------------------
 
 * Maria Incoronate Nardella, post-doc
-![Maria](/images/maria.png)
+![Maria](/images/maria.jpg)
 * Heyi Zhang, post-doc
 ![Heyi](/images/Heyi.png)
 * Vincenzo Lobbia, PhD student
