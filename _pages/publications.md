@@ -55,7 +55,7 @@ This will facilitate structural studies of genomic nucleosomes by making it easi
 [Read the paper](https://www.sciencedirect.com/science/article/pii/S0003269719307900)
 
 * **Peptide mimics nucleosome**  
-V.Horn, S.A.K. Jongkees, H. van Ingen (2020). *Molecules*
+V.Horn, S.A.K. Jongkees, H. van Ingen (2020). *Molecules*  
 Imitating Nature is hard! Recognition of H3K36me is hevaily influenced by the nucleosomal environment.  
 We attempted to mimicking this nucleosomal context in a peptide to potentially identify new inhibitors for the readers of this modification.  
 The peptides indeed have increased binding affinity but an altered mode, reducing the occupancy of the aromatic cage on the reader.  
