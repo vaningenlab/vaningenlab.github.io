@@ -30,7 +30,7 @@ Alumni
 
 * Ulric le Paige, PostDoc [Ferrage Lab](https://www.chimie.ens.fr/recherche/laboratoire-lbm/structure-and-dynamics-of-biomolecules/), NMR Group, Ecole Normale Superieure PSL, Paris
 * Ivan Corbeski, PostDoc [Bernecky Lab](http://berneckylab.ist.ac.at), Institute of Science and Technology Austria
-* Heyi Zhang, Account Manager [Scientific Volume Imaging](https:)
-* Clara van Emmerik, Application Scientist, [MRC Holland](https://mrc-holland.nl)
+* Heyi Zhang, Account Manager [Scientific Volume Imaging](https://svi.nl/HomePage)
+* Clara van Emmerik, Application Scientist, [MRC Holland](https://www.mrcholland.com)
 * Velten Horn, Associate Principal Scientist & Project Leader, [MSD](https://msd.nl)
 
