@@ -9,14 +9,17 @@ PI
 ---
 
 * Hugo van Ingen, assistant prof.
-
+![Hugo](/images/hugo.png)
 
 Current group members
 -------------------------------------------------
 
 * Maria Incoronate Nardella, post-doc
+![Maria](/images/maria.png)
 * Heyi Zhang, post-doc
+![Heyi](/images/Heyi.png)
 * Vincenzo Lobbia, PhD student
+![Vince](/images/vincenzo.png)
 
 We would not accomplish anything without all our collegues from the [UU NMR Group](https://www.uu.nl/en/research/nmr/people)!
 
