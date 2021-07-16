@@ -26,7 +26,7 @@ We are part of the [Utrecht NMR Group](https://www.uu.nl/en/research/nmr) at the
 
 Contact details:
 
-[Dr. Hugo van Ingen](<h.vaningen@uu.nl>)
+[Dr. Hugo van Ingen](mailto:h.vaningen@uu.nl)
 <address>
 Utrecht NMR Group  
 Utrecht University  

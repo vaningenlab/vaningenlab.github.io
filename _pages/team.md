@@ -8,7 +8,7 @@ author_profile: true
 PI
 ---
 
-* <img src="/images/hugo.png" alt="Hugo" width="150"/> **Hugo van Ingen**, assistant prof.
+* <img src="/images/hugo.png" alt="Hugo" width="150"/> **Hugo van Ingen**, assistant prof., chromatin and (phase) cycling enthusiast
 
 
 Current group members
@@ -23,7 +23,7 @@ We would not accomplish anything without all our collegues from the [UU NMR Grou
 Want to join
 -----------------------------------
 
-If are interested in join our team for BSc/MSc internship, a PhD or postdoc position, please send a message to [Hugo](<h.vaningen@uu.nl>)
+If are interested in join our team for BSc/MSc internship, a PhD or postdoc position, please send a message to [Hugo](mailto:h.vaningen@uu.nl)
 
 Alumni
 ------

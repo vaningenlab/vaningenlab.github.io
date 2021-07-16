@@ -39,6 +39,14 @@ R. van Nuland, F.M.A. van Schaik, M. Simonis, S. van Heesch, E. Cuppen, R. Boele
 H. Kato\*,H. van Ingen\*, B.-R. Zhou\*, H. Feng, M. Bustin, L.E. Kay and Y. Bai (2011). *Proc. Natl. Acad. Sci. USA*  
 [Read the paper](https://www.pnas.org/content/108/30/12283)
 
+* **Weak coupling between magnetically inequivalent spins**  
+U.B. Le Paige, B. Smits,P. 't Hart,F. Lefeber, N.I. Martin, H. van Ingen (2017). J Magn Reson.
+As it turns out, our group has spent considerable time on analyzing the effects of strong coupling in NMR experiments and spectra.  
+Strong coupling occurs when the J-coupling is small compared to the frequency separation and is probably best known for the roofing effect in AB-type spectra.  
+While strong coupling has been studied intensively since the late 50’s, there are still fundamental and new aspects to be discovered in this fascinating corner of spectroscopy.  
+In this case, we discovered a case where chemically equivalent nuclei are in fact weakly coupled, resulting a very peculiar spectrum that can be seen as both deceptively complicated or deceptively simple.  
+[Read the paper](https://www.sciencedirect.com/science/article/pii/S1090780717300885)
+
 Latest
 -------
 
