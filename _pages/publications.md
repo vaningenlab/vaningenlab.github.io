@@ -33,7 +33,7 @@ Spinning down nucleosomes to pin down interactions...
 
 * **Nucleosomal DNA binding drives the recognition of H3K36 methylated nucleosomes by the PSIP1-PWWP domain**  
 R. van Nuland, F.M.A. van Schaik, M. Simonis, S. van Heesch, E. Cuppen, R. Boelens, M. Timmers and H. van Ingen (2013). Epigenetics & Chromatin  
-Read the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/1756-8935-6-12)
+[Read the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/1756-8935-6-12)
 
 * **Architecture of the high mobility group nucleosomal protein 2-nucleosome complex as revealed by methyl-based NMR**  
 H. Kato\*,H. van Ingen\*, B.-R. Zhou\*, H. Feng, M. Bustin, L.E. Kay and Y. Bai (2011). Proc. Natl. Acad. Sci. USA  
@@ -52,7 +52,7 @@ We developed a flexible method to produce large quantities of genomic nucleosoma
 This will facilitate structural studies of genomic nucleosomes by making it easier to produce the required DNA.  
 [Read the paper](https://www.sciencedirect.com/science/article/pii/S0003269719307900)
 
-* **Peptide mimics nucleosome**
+* **Peptide mimics nucleosome**  
 Imitating Nature is hard! Recognition of H3K36me is hevaily influenced by the nucleosomal environment.  
 We attempted to mimicking this nucleosomal context in a peptide to potentially identify new inhibitors for the readers of this modification.  
 The peptides indeed have increased binding affinity but an altered mode, reducing the occupancy of the aromatic cage on the reader.  
