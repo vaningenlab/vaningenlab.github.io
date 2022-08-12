@@ -11,7 +11,7 @@ For a full publication list, please see the links on side bar.
 Recent key publications
 ----------------
 * **Chaperoning of the histone octamer by the acidic domain of DNA repair factor APLF**  
-I. Corbeski\*, X. Guo\*, B.V. Eckhardt, D. Fasci, W. Wiegant, M.A. Graewert, K. Vreeken, H. Wienk, D.I. Svergun, A.J.R. Heck, H. van Attikum, R. Boelens, T.K. Sixma, F. Mattiroli and H. van Ingen (2019). *Sci. Adv.*
+I. Corbeski\*, X. Guo\*, B.V. Eckhardt, D. Fasci, W. Wiegant, M.A. Graewert, K. Vreeken, H. Wienk, D.I. Svergun, A.J.R. Heck, H. van Attikum, R. Boelens, T.K. Sixma, F. Mattiroli and H. van Ingen (2022). *Sci. Adv.*
 DNA damage repair requires manipulation of chromatin involving first nucleosome disassembly and later chromatin restoration.  
 We show that the initrinsically disordered chaperone domain of repair factor APLF can single-handedly assembly the histone octamer and transfer it to DNA to form nucleosomes.
 While histone chaperones are generally specific for either H2A-H2B or H3-H4 histones, this work is the first high-resolution characterization of a chaperone that can bind all four histones.
