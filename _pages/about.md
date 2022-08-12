@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+News: Paper in Science Advances and open PhD position
+---------
+Our work on the histone chaperone APLF has been published in Science Advances! Read the paper [here](https://www.science.org/doi/10.1126/sciadv.abo0517) and the new release [here](https://www.uu.nl/en/news/dna-mantle-repair-happens-in-one-rather-than-several-steps).
+A 4-year PhD position is open in an NWO-funded project to study genomic nucleosomes and pioneer factor binding, contact Hugo for more information!
 
 About us
 ---------
