@@ -8,8 +8,8 @@ author_profile: true
 Open PhD position
 ----
 We have an open position for a PhD student in NWO-funded project to study the structural dynamics of genomic nucleosomes and their interaction with pioneer factors.
-This project builds on recent work in the lab on nucleosome containing native, genomic DNA. 
-If you are a highly motivated student with experience in recombinant protein work and a strong interest in structural work, feel free to contact [Hugo](mailto:h.vaningen@uu.nl) for more information. 
+This project starts Jan 2023 and builds on recent work in the lab on nucleosome containing native, genomic DNA. 
+If you are a highly motivated student with experience in recombinant protein work and a strong interest in structural work and NMR, feel free to contact [Hugo](mailto:h.vaningen@uu.nl) for more information. 
 
 PI
 ---
