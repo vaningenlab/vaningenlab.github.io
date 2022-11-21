@@ -18,7 +18,7 @@ About us
 Our research team focusses on the molecular basis of chromatin function using an integrative approach of modern NMR, biochemistry and computation.
 In particular, we are interested in the interactions of chromatin's fundamental building block, the nucleosome, and other chromatin factors and how these affect chromatin structure and function.
 To this end, we make use of state-of-the art NMR methods and also develop novel approaches to study these large assemblies at atomic resolution.
-In addition, the group collaborates with and supports users of the Utrecht NMR Facility, for example via [iNEXT-Discovery](https://inext-discovery.eu/network/inext-d/home) and [INSTRUCT](https://instruct-eric.eu).
+In addition, the group collaborates with and supports users of the Utrecht NMR Facility, for example via [iNEXT-Discovery](https://inext-discovery.eu/network/inext-d/home) and [INSTRUCT](https://instruct-eric.eu). We also contribute to developing best practices for offering remote access in NMR via the [R-NMR](https://www.r-nmr.eu) project.
 
 ![chromatin and nucleosome interactions](/images/chromatin-NMR.png)
 
