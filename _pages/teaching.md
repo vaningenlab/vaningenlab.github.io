@@ -28,8 +28,9 @@ Don't hesitate to contact [Hugo](mailto:h.vaningen@uu.nl) for more information.
 Courses
 -------------------------------------------------
 
-* Research Project
-* Advanced Biomolecular NMR
+* BSc MBLS: Biophysical Methods and Structural Biology
+* BSc elective: coordinator Research Project Bijvoet
+* MSc elective: Advanced Biomolecular NMR
 
 Simulators
 -------------------------------------------------

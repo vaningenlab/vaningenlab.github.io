@@ -34,7 +34,7 @@ Alumni
 * Maria Incoronata Nardella, NMR technician [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/maria-nardella#tab-1), Netherlands
 * Ulric le Paige, PostDoc [Ferrage Lab](https://www.chimie.ens.fr/recherche/laboratoire-lbm/structure-and-dynamics-of-biomolecules/), NMR Group, Ecole Normale Superieure PSL, Paris
 * Ivan Corbeski, PostDoc [Amedeo Caflisch Research Group](http://www.biochem-caflisch.uzh.ch), University of Zurich, Switzerland
-* Heyi Zhang, Account Manager [Scientific Volume Imaging](https://svi.nl/HomePage)
+* Heyi Zhang, Product Specialist [RiboPro](https://ribopro.eu)
 * Clara van Emmerik, Application Scientist, [MRC Holland](https://www.mrcholland.com)
 * Velten Horn, Associate Principal Scientist & Project Leader, [MSD](https://msd.nl)
 
