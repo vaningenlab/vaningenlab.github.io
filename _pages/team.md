@@ -7,11 +7,6 @@ author_profile: true
 
 <img src="/images/team2.0.jpg" alt="Team 2.0" width="600"/>
 
-PI
----
-
-* <img src="/images/hugo.png" alt="Hugo" width="150"/> **Hugo van Ingen**, assistant prof., chromatin and (phase) cycling enthusiast
-
 
 Current group members
 -------------------------------------------------
@@ -19,8 +14,16 @@ Current group members
 * <img src="/images/maria.jpg" alt="Maria" width="150"/> **Maria Incoronate Nardella**, post-doc
 * <img src="/images/vincenzo.png" alt="Vincenzo" width="150"/> **Vincenzo Lobbia**, PhD student
 --->
-* Andrea Orsetti, PhD candidate
-* Damian Kevelam, MSc intern student
+* **Andrea Orsetti**, PhD candidate
+* **Damian Kevelam**, MSc intern student
+* **Hugo van Ingen**, assistant prof., chromatin and (phase) cycling enthusiast
+
+<!*--
+PI
+---
+ <img src="/images/hugo.png" alt="Hugo" width="150"/> **Hugo van Ingen**, assistant prof., chromatin and (phase) cycling enthusiast
+-->
+
 
 We would not accomplish anything without all our collegues from the [UU NMR Group](https://www.uu.nl/en/research/nmr/people)!
 
