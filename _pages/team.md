@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-<img src="/images/IMG_0400.jpeg" alt="Team 2.0" width="150"/>
+<img src="/images/IMG_0400.jpeg" alt="Team 2.0" width="400"/>
 PI
 ---
 
