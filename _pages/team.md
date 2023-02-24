@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-
+<img src="/images/team2.0.png" alt="Team 2.0" width="150"/>
 PI
 ---
 
@@ -18,6 +18,7 @@ Current group members
 * <img src="/images/maria.jpg" alt="Maria" width="150"/> **Maria Incoronate Nardella**, post-doc
 * <img src="/images/vincenzo.png" alt="Vincenzo" width="150"/> **Vincenzo Lobbia**, PhD student
 --->
+* Andrea Orsetti, PhD candidate
 * Damian Kevelam, MSc intern student
 
 We would not accomplish anything without all our collegues from the [UU NMR Group](https://www.uu.nl/en/research/nmr/people)!
